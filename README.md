@@ -2,4 +2,4 @@
 - 👀 I’m interested in machine learning, artificial intelligence, and software development.
 - 🌱 I’m currently learning advanced techniques in deep learning.
 - 💞️ I’m looking to collaborate on projects related to AI and ML.
-- 📫 How to reach me: You can reach out to me through my GitHub profile or email me at Ganeshjohn253@gmail.com.
+- 📫 You can reach out to me through my GitHub profile or email me at Ganeshjohn253@gmail.com.
