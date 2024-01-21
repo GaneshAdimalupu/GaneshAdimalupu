@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **Ganeshjohn253@gmail.com**
 
-- ⚡ Fun fact **I'm a killer**
+- ⚡ Fun fact **I'm a killer 😂**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
