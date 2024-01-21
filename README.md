@@ -1,3 +1,5 @@
+![logo](https://github.com/GaneshAdimalupu/GaneshAdimalupu/blob/main/Linkedln%20Banner.png)
+
 <h1 align="center">Hi 👋, I'm Ganesh Adimalupu</h1>
 <h3 align="center">Aspiring AI/ML enthusiast transforming data into insights</h3>
 
