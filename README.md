@@ -15,7 +15,6 @@
 - 🌱 Learning about **ML Models** and **Deep Learning**.
 - 💬 Ask me about **Python**, **Java**, and **C**.
 - 📫 Reach me at **Ganeshjohn253@gmail.com**.
-- 🤝 Eager to contribute to open-source projects and collaborate with others!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -45,20 +44,8 @@
   <li><strong>Lift Access Control Using RFID:</strong> A system for controlling lift access via RFID authentication, integrated with Firebase for real-time updates. <a href="https://github.com/GaneshAdimalupu/Lift-Access-Control" target="_blank">View Project</a></li>
 </ul>
 
-<h3 align="left">Badges:</h3>
-<p align="left">
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-  ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-  ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-  ![TensorFlow](https://img.shields.io/badge/TensorFlow-EF573F?style=flat-square&logo=tensorflow&logoColor=white)
-</p>
-
 <h3 align="left">Additional Information:</h3>
-<p>I am adept at building connections, collaborating effectively, and organizing events, all of which contribute to fostering a vibrant community in tech. I am eager to contribute to open-source projects and learn from others in the field.</p>
+<p>I am adept at building connections, collaborating effectively, and organizing events, all of which contribute to fostering a vibrant community in tech.</p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ganeshadimalupu&show_icons=true&locale=en&layout=compact" alt="ganeshadimalupu" width="250" height="250" /></p>
 
